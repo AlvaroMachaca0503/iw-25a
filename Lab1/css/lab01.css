@@ -1,0 +1,27 @@
+/* Fondo del cuerpo */
+body {
+    background-color: #7DA2FF; /* Azul claro */
+    font-family: Arial, sans-serif;
+}
+
+/* Encabezado */
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+
+/* Primer párrafo en azul */
+.blue-text {
+    color: blue;
+    font-size: 18px;
+}
+
+/* Párrafos con fondo rojo */
+.red-box {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 18px;
+}
