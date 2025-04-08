@@ -1,0 +1,23 @@
+# Proyecto Vue 3 + Vite
+
+Este proyecto está creado con [Vue 3](https://vuejs.org/) y [Vite](https://vitejs.dev/), utilizando la sintaxis `<script setup>` para componentes SFC (Single File Components).
+
+## 🚀 Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/AlvaroMachaca0503/iw-25a.git
+   cd iw-25a
+
+
+📂 Estructura del proyecto
+├── public/          # Archivos estáticos
+├── src/             # Código fuente del proyecto
+│   ├── assets/      # Recursos como imágenes y estilos
+│   ├── components/  # Componentes reutilizables
+│   └── App.vue      # Componente raíz
+├── .env             # Variables de entorno
+├── .gitignore       # Archivos/Carpetas ignoradas por Git
+├── index.html       # HTML principal
+├── package.json     # Información del proyecto y scripts
+├── vite.config.js   # Configuración de Vite
