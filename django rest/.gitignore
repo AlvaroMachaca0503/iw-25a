@@ -1,0 +1,118 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+venv/
+.env
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Entorno virtual
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Archivos de caché
+*.cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos de migración de Django (opcional, comenta si quieres versionar las migraciones)
+# */migrations/*.py
+# !*/migrations/__init__.py
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de ambiente
+.env
+.venv
+env/
+ENV/
+
+# Archivos de base de datos
+*.sqlite3
+*.db
+
+# Archivos temporales
+*.bak
+*.tmp
+*~
+
+# Archivos de registro
+logs/
+*.log
+
+# Archivos de configuración local
+local_settings.py
+production_settings.py
+
+# Archivos de documentación generados
+docs/_build/
+doc/build/
+
+# Archivos de cobertura de código
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Archivos de prueba
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Archivos de compilación
+*.mo
+*.pot
+
+# Archivos de JavaScript/Node (si usas frontend)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
